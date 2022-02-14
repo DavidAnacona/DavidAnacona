@@ -1,5 +1,6 @@
 ### Hola soy David Anacona 👋
 
+
 ```js
   const DavidAnacona = {
     technologies: 'web',
@@ -7,4 +8,5 @@
     tools; [React, styled-components, springBoot, Redux],
     passions: ['web development', soccer, volleyball ]
   }
-![programacion](https://user-images.githubusercontent.com/70609897/153786116-236a894d-9c34-4ec9-b75c-deb6e61569e9.jpg)
+```
+![programacion](https://user-images.githubusercontent.com/70609897/153786513-e4ccae46-29c6-4bf3-9452-4d675c2530cc.jpg)
